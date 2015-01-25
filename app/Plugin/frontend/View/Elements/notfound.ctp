@@ -1,1 +1,0 @@
-<div class="note-msg"> Không tìm thấy kết quả nào. </div>

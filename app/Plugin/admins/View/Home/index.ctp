@@ -1,1 +1,0 @@
-<h3 class="text-center text-primary">Chào mừng bạn đến với BookStore. Chúc bạn một ngày mới vui vẻ</h3>
