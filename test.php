@@ -106,3 +106,4 @@ if (Configure::read('debug') < 1) {
 require_once CAKE . 'TestSuite' . DS . 'CakeTestSuiteDispatcher.php';
 
 CakeTestSuiteDispatcher::run();
+
