@@ -1,0 +1,46 @@
+<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-md-offset-3">
+	<form action="" method="POST" role="form">
+		<legend class="text-center">Thêm mới sách</legend>
+		<table class="table table-striped table-hover">
+
+			<tbody>
+				<tr>
+					<th>Tên Sách</th>
+					<td><input type="text" name="nameTxt" class="form-control" id="" placeholder="Tên sách" value=""></td>
+				</tr>
+				<tr>
+					<th>Tên Tác Giả</th>
+					<td><input type="text" name="authorTxt" class="form-control" id="" placeholder="Tên tác giả" value=""></td>
+				</tr>
+				<tr>
+					<th>Loại Bìa</th>
+					<td><input type="text" name="typeTxt" class="form-control" id="" placeholder="Loại bìa" value=""></td>
+				</tr>
+				<tr>
+					<th>Giá</th>
+					<td><input type="text" name="priceTxt" class="form-control" id="" placeholder="Giá tiền" value=""></td>
+				</tr>
+				<tr>
+					<th>Mô tả</th>
+					<td><textarea name="desTxt" rows="4" cols="50" placeholder="Giới thiệu thông tin sách"></textarea></td>
+				</tr>
+				<tr>
+					<th>Ảnh</th>
+					<td>
+					<img src="" name="imageTxt" alt="">
+					<input type="file" name="uploadimageTxt">
+					</td>
+				</tr>
+				<tr>
+						
+					<td colspan="2">
+						<button type="submit" name="submit" class="btn btn-primary">Save</button>
+						<button type="reset" name="submit" class="btn btn-warning">Reset</button>
+						<button type="button" class="btn btn-warning">Cancel</button>
+					</td>	
+				</tr>
+			</tbody>
+		</table>
+	</form>
+
+</div>
