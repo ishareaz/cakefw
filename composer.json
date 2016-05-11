@@ -29,4 +29,11 @@
 		"lib/Cake/Console/cake"
 	]
 }
+
 conflict
+conflict 2
+
+
+
+test test git stash
+
